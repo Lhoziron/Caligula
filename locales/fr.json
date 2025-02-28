@@ -1,0 +1,145 @@
+{
+  "discover": {
+    "title": "Découvrir",
+    "subtitle": "✨ Prêt à découvrir ta prochaine activité fun ? ✨",
+    "quickQuiz": {
+      "title": "Ton activité sur mesure 🎯",
+      "subtitle": "6 questions fun pour une expérience mémorable"
+    },
+    "foodQuiz": {
+      "title": "Plaisir Gourmand 🍽️",
+      "subtitle": "Trouve ton restaurant idéal en quelques clics"
+    },
+    "activities": {
+      "title": "Activités",
+      "subtitle": "Des surprises à découvrir près de toi!"
+    }
+  },
+  "activities": {
+    "loading": {
+      "title": "Recherche en cours... 🔍",
+      "subtitle": "Notre IA analyse vos préférences",
+      "message": "Nous cherchons les activités parfaites pour vous... ✨"
+    },
+    "error": {
+      "title": "Oops! 😅",
+      "message": "Une erreur est survenue lors du chargement des activités.",
+      "retry": "Réessayer"
+    },
+    "empty": {
+      "title": "Aucune activité trouvée 😢",
+      "description": "Nous n'avons pas trouvé d'activités correspondant à vos critères. Essayez de modifier vos préférences !",
+      "retryQuiz": "Refaire le quiz"
+    },
+    "header": {
+      "title": "Activités",
+      "subtitle": {
+        "withAnswers": "Voici nos suggestions personnalisées ! 🌟",
+        "default": "Découvrez toutes nos activités ! 🌟"
+      }
+    },
+    "filters": {
+      "map": "Voir sur la carte 🗺️",
+      "city": "Filtrer par ville",
+      "location": "Choisir une destination",
+      "reset": "Réinitialiser",
+      "all": "Tout voir",
+      "activities": "Activités",
+      "restaurants": "Restaurants",
+      "allCities": "Toutes les villes"
+    }
+  },
+  "profile": {
+    "title": "Profil",
+    "defaultName": "Utilisateur",
+    "defaultEmail": "utilisateur@example.com",
+    "tabs": {
+      "profile": "Profil",
+      "preferences": "Préférences",
+      "favorites": "Favoris"
+    },
+    "edit": {
+      "button": "Modifier le profil",
+      "firstName": "Prénom",
+      "firstNamePlaceholder": "Votre prénom",
+      "email": "Email",
+      "emailPlaceholder": "Votre email",
+      "cancel": "Annuler",
+      "save": "Enregistrer",
+      "errors": {
+        "title": "Erreur",
+        "invalidEmail": "Veuillez entrer une adresse email valide",
+        "emptyName": "Le prénom ne peut pas être vide"
+      },
+      "success": {
+        "title": "Succès",
+        "message": "Profil mis à jour avec succès"
+      }
+    },
+    "preferences": {
+      "title": "Mes Préférences",
+      "chooseOption": "Choisissez une option :"
+    },
+    "favorites": {
+      "empty": {
+        "message": "Vous n'avez pas encore d'activités favorites",
+        "discover": "Découvrir des activités"
+      }
+    },
+    "logout": {
+      "button": "Se déconnecter",
+      "title": "Déconnexion",
+      "message": "Êtes-vous sûr de vouloir vous déconnecter ?",
+      "confirm": "Oui, me déconnecter",
+      "cancel": "Annuler"
+    },
+    "notAuthenticated": {
+      "title": "Connectez-vous pour accéder à votre profil",
+      "message": "Créez un compte ou connectez-vous pour gérer vos préférences et vos favoris.",
+      "login": "Se connecter"
+    }
+  },
+  "auth": {
+    "error": {
+      "title": "Erreur",
+      "allFieldsRequired": "Tous les champs sont obligatoires",
+      "passwordsDoNotMatch": "Les mots de passe ne correspondent pas"
+    },
+    "login": {
+      "title": "Connexion",
+      "subtitle": "Connectez-vous pour accéder à votre compte",
+      "email": "Email",
+      "emailPlaceholder": "Votre email",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "Votre mot de passe",
+      "button": "Se connecter",
+      "noAccount": "Pas encore de compte ? Inscrivez-vous",
+      "error": {
+        "invalidCredentials": "Email ou mot de passe incorrect"
+      }
+    },
+    "register": {
+      "title": "Inscription",
+      "subtitle": "Créez votre compte pour commencer",
+      "firstName": "Prénom",
+      "firstNamePlaceholder": "Votre prénom",
+      "email": "Email",
+      "emailPlaceholder": "Votre email",
+      "password": "Mot de passe",
+      "passwordPlaceholder": "Votre mot de passe",
+      "confirmPassword": "Confirmer le mot de passe",
+      "confirmPasswordPlaceholder": "Confirmez votre mot de passe",
+      "button": "S'inscrire",
+      "haveAccount": "Déjà un compte ? Connectez-vous",
+      "error": {
+        "registrationFailed": "L'inscription a échoué"
+      }
+    },
+    "required": {
+      "title": "Connexion requise",
+      "message": "Vous devez être connecté pour ajouter des activités à vos favoris.",
+      "login": "Se connecter",
+      "cancel": "Annuler"
+    }
+  }
+}
