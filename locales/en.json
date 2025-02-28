@@ -1,0 +1,146 @@
+{
+  "discover": {
+    "title": "Discover",
+    "subtitle": "✨ Ready to discover your next fun activity? ✨",
+    "quickQuiz": {
+      "title": "Your Custom Activity 🎯",
+      "subtitle": "6 fun questions for a memorable experience"
+    },
+    "foodQuiz": {
+      "title": "Gourmet Pleasure 🍽️",
+      "subtitle": "Find your ideal restaurant in a few clicks"
+    },
+    "activities": {
+      "title": "Activities",
+      "subtitle": "Surprises to discover near you!"
+    }
+  },
+  "activities": {
+    "loading": {
+      "title": "Searching... 🔍",
+      "subtitle": "Our AI is analyzing your preferences",
+      "message": "We're finding the perfect activities for you... ✨"
+    },
+    "error": {
+      "title": "Oops! 😅",
+      "message": "An error occurred while loading activities.",
+      "retry": "Try Again"
+    },
+    "empty": {
+      "title": "No activities found 😢",
+      "description": "We couldn't find any activities matching your criteria. Try modifying your preferences!",
+      "retryQuiz": "Retake the quiz"
+    },
+    "header": {
+      "title": "Activities",
+      "subtitle": {
+        "withAnswers": "Here are your personalized suggestions! 🌟",
+        "default": "Discover all our activities! 🌟"
+      }
+    },
+    "filters": {
+      "map": "View on map 🗺️",
+      "city": "Filter by city",
+      "location": "Choose a destination",
+      "reset": "Reset",
+      "all": "View all",
+      "activities": "Activities",
+      "restaurants": "Restaurants",
+      "allCities": "All cities"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "defaultName": "User",
+    "defaultEmail": "user@example.com",
+    "tabs": {
+      "profile": "Profile",
+      "preferences": "Preferences",
+      "favorites": "Favorites"
+    },
+    "edit": {
+      "button": "Edit Profile",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "Your first name",
+      "email": "Email",
+      "emailPlaceholder": "Your email",
+      "cancel": "Cancel",
+      "save": "Save",
+      "errors": {
+        "title": "Error",
+        "invalidEmail": "Please enter a valid email address",
+        "emptyName": "First name cannot be empty"
+      },
+      "success": {
+        "title": "Success",
+        "message": "Profile updated successfully"
+      }
+    },
+    "preferences": {
+      "title": "My Preferences",
+      "chooseOption": "Choose an option:"
+    },
+    "favorites": {
+      "empty": {
+        "message": "You don't have any favorite activities yet",
+        "discover": "Discover activities"
+      }
+    },
+    "logout": {
+      "button": "Log out",
+      "title": "Log out",
+      "message": "Are you sure you want to log out?",
+      "confirm": "Yes, log out",
+      "cancel": "Cancel"
+    },
+    "notAuthenticated": {
+      "title": "Sign in to access your profile",
+      "message": "Create an account or sign in to manage your preferences and favorites.",
+      "login": "Sign in"
+    }
+  },
+  "auth": {
+    "error": {
+      "title": "Error",
+      "allFieldsRequired": "All fields are required",
+      "passwordsDoNotMatch": "Passwords do not match"
+    },
+    "login": {
+      "title": "Sign In",
+      "subtitle": "Sign in to access your account",
+      "email": "Email",
+      "emailPlaceholder": "Your email",
+      "password": "Password",
+      "passwordPlaceholder": "Your password",
+      "button": "Sign in",
+      "noAccount": "No account yet? Sign up",
+      "error": {
+        "invalidCredentials": "Invalid email or password"
+      }
+    },
+    "register": {
+      "title": "Sign Up",
+      "subtitle": "Create your account to get started",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "Your first name",
+      "email": "Email",
+      "emailPlaceholder": "Your email",
+      "password": "Password",
+      "passwordPlaceholder": "Your password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Confirm your password",
+      "button": "Sign up",
+      "haveAccount": "Already have an account? Sign in",
+      "error": {
+        "registrationFailed": "Registration failed"
+      }
+    },
+    "required": {
+      "title": "Login Required",
+      "message": "You need to be logged in to add activities to your favorites.",
+      "login": "Sign in",
+      "cancel": "Cancel"
+    }
+  }
+}
+
